@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "657189508275",
+    "firebase_url": "https://fir-sociallogin-58cbd.firebaseio.com",
+    "project_id": "fir-sociallogin-58cbd",
+    "storage_bucket": "fir-sociallogin-58cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657189508275:android:f885273617b3683f",
+        "android_client_info": {
+          "package_name": "com.example.firebasesociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657189508275-s9o5b1od6du8on7mgbn0h33t71rg5gnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHACqC0NcZCT1nu3Lv3KMQIKF3ugDH7Yo"
+        },
+        {
+          "current_key": "AIzaSyC5fsqX1d5TnhehEJFAOUpWVuGHogqLCro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657189508275-s9o5b1od6du8on7mgbn0h33t71rg5gnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
